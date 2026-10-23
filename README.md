@@ -1,2 +1,2 @@
 # Sports-Awards
-Python Code for Analysis of Award Winners + Finalists, With Some Results and Tables
+Python Code for Analysis of Award Winners + Finalists Across the Big 4 Sports, With Some Results and Tables
